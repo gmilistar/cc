@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>milicc</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://gmilistar.github.io/cc/"/>
+  <updated>2021-06-20T09:20:49.223Z</updated>
+  <id>https://gmilistar.github.io/cc/</id>
+  
+  <author>
+    <name>魔兽世界,奶骑,PVE,团本</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>M1 塔格鲁尔</title>
+    <link href="https://gmilistar.github.io/cc/2021/06/01/%E6%96%B0%E7%9A%84%E6%B5%8B%E8%AF%95/"/>
+    <id>https://gmilistar.github.io/cc/2021/06/01/新的测试/</id>
+    <published>2021-06-01T00:30:00.000Z</published>
+    <updated>2021-06-20T09:20:49.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo-theme-sakura主题 <a href="https://github.com/honjun/hexo-theme-sakura/blob/master/README.md">English document</a></p><p>基于WordPress主题<a href="https://github.com/mashirozx/Sakura/">Sakura</a>修改成Hexo的主题。</p><p><a href="https://sakura.hojun.cn">demo预览</a></p><p>正在开发中……</p><p><img src="https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg" alt=""></p><h2 id="4丶-测试"><a href="#4丶-测试" class="headerlink" title="4丶 测试"></a>4丶 测试</h2><p><img src="https://cdn.jsdelivr.net/gh/gmilistar/ccimg/ty-m-boss10.jpg" alt=""></p><h2 id="5丶-测试"><a href="#5丶-测试" class="headerlink" title="5丶 测试"></a>5丶 测试</h2><!-- ## 1、主题下载安装## 1丶 测试[hexo-theme-sakura](https://github.com/honjun/hexo-theme-sakura)建议下载压缩包格式，因为除了主题内容还有些source的配置对新手来说比较太麻烦，直接下载解压就省去这些麻烦咯。下载好后解压到博客根目录（不是主题目录哦，重复的选择替换）。接着在命令行（cmd、bash）运行`npm i`安装依赖。 --><h2 id="2、主题配置"><a href="#2、主题配置" class="headerlink" title="2、主题配置"></a>2、主题配置</h2><h3 id="博客根目录下的-config配置"><a href="#博客根目录下的-config配置" class="headerlink" title="博客根目录下的_config配置"></a>博客根目录下的_config配置</h3><p>站点<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Site</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">你的站点名</span></span><br><span class="line"><span class="attr">subtitle:</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">站点简介</span></span><br><span class="line"><span class="attr">keywords:</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">作者名</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">zh-cn</span></span><br><span class="line"><span class="attr">timezone:</span></span><br></pre></td></tr></table></figure></p><p>部署<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">处理方式：</span></span><br><span class="line"><span class="string">高额+高频每15秒一次打坦三段魔法物理混合尖刺伤害。技能书虽然描述是5秒叠一层，叠到3层使用三段觅心箭，实际会出现使用三段觅心箭后马上再来一次三段觅心箭。快节奏混合伤害，什么职业坦来抗都疼，需要坦克靠自己常规循环技能处理，不能过于依赖长CD减伤。防骑的处理方式就是盾击+奉献，吃完伤害后马上一口圣令奶满自己，全套处理觅心箭不需要治疗额外关注自己搞定。</span></span><br><span class="line"><span class="string">在高急速支持下(我打希瓦带的35%急速，20%全能)防骑有足够的圣能来保证盾击覆盖同时留出一口圣令奶满每轮觅心箭伤害，顺便高急速支持下的更短的GCD也让圣令自疗的稳定性更高。天赋选择神圣意志也能有效提高防骑常规循环处理觅心箭的能力。</span></span><br><span class="line"><span class="string">觅心箭后续还会给坦克附加女妖的印记，觅心箭的换坦机制。希瓦射一套三段觅心箭后当前坦就有3层女妖的印记Debuff，每一箭=一层Debuff，另一个坦克嘲讽即可。不换嘲的话，连续觅心箭把女妖的印记Debuff叠加上去就是高几率倒坦。</span></span><br></pre></td></tr></table></figure></p><h1 id="Home-page-sort-type-1-newer-first，1-older-first-【非】"><a href="#Home-page-sort-type-1-newer-first，1-older-first-【非】" class="headerlink" title="Home page sort type: -1: newer first，1: older first. 【非】"></a>Home page sort type: -1: newer first，1: older first. 【非】</h1><p>homePageSortType: -1</p><h1 id="Home-page-article-shown-number-【非】"><a href="#Home-page-article-shown-number-【非】" class="headerlink" title="Home page article shown number) 【非】"></a>Home page article shown number) 【非】</h1><p>homeArticleShown: 10</p><h1 id="背景图片-【选】"><a href="#背景图片-【选】" class="headerlink" title="背景图片 【选】"></a>背景图片 【选】</h1><p>bgn: 8</p>]]></content>
+    
+    <summary type="html">
+    
+      统御圣所 M1 测试经验
+    
+    </summary>
+    
+      <category term="技术" scheme="https://gmilistar.github.io/cc/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://gmilistar.github.io/cc/tags/web/"/>
+    
+      <category term="测试" scheme="https://gmilistar.github.io/cc/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>M塔拉格鲁 测试</title>
+    <link href="https://gmilistar.github.io/cc/2018/12/12/M1%E5%A1%94%E6%8B%89%E6%A0%BC%E9%B2%81/"/>
+    <id>https://gmilistar.github.io/cc/2018/12/12/M1塔拉格鲁/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2021-06-22T07:22:03.708Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/gmilistar/ccimg/baner-01.png" alt=""></p><center> <del>本次测试基于PTR版本 39069 后续如有变动 请以Live上线为优先</del> </center><h1 id="1丶-塔拉格鲁"><a href="#1丶-塔拉格鲁" class="headerlink" title="#  1丶 塔拉格鲁"></a>#  1丶 塔拉格鲁</h1><p>随着典狱长的阴谋逐渐揭开,玩家追逐着希尔瓦娜斯 终于踏入了这座充满着无尽折磨与绝望的枯寂之地- 托加斯特</p><h3 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h3><ol><li>心能之力: 进本后需要在诅咒之塔场地四周击杀4个<strong>灌魂巨人</strong>获取心能之力,<font color="red">注意不要被击飞下悬崖</font>.虽然心能之力可以极大增幅玩家,但这是典狱长给玩家带毒的蜜饯(挖的坑).开荒期请优先选择以下心能.<ul><li>永恒跳动之心: 对恐惧和昏迷效果免疫, 帮助团队应对技能 永恒锁链</li><li>不稳形态: 随机变成虚体,受到伤害-99%,并且随机移出一次负面效果.(减物理圈/魔法圈层数)</li><li>共鸣雕像: 魔法伤害-25%,增加物理伤害15% 此心能请尽量不要去吸物理圈</li><li>瞬息雕像:.物理伤害-25%,增加魔法伤害15% 此心能请尽量不要去吸魔法圈</li><li><a href="https://wago.io/SoDAnimaPowers">监控全团心能之力wa</a></li></ul></li><li>残迹：上层区域之力<br><img src="https://cdn.jsdelivr.net/gh/gmilistar/ccimg/GIF%202021-6-22%2014-01-19.gif" alt=""><br>物理圈 吸圈会使玩家受到的物理伤害提高.5名玩家快速吸掉即可. 中有捕食者之嚎的人.进圈要注意不要恐惧到其他人</li><li>残迹：灵魂熔炉之灼<br><img src="https://cdn.jsdelivr.net/gh/gmilistar/ccimg/GIF%202021-6-22%2013-48-57.gif" alt=""><br>火焰圈 吸圈会使玩家受到的火焰伤害提高.5名玩家快速吸掉即可. 中有捕食者之嚎的人.进圈要注意不要恐惧到其他人</li><li>残迹：莫尔特雷加的回响<br><img src="https://cdn.jsdelivr.net/gh/gmilistar/ccimg/GIF%202021-6-22%2013-50-12.gif" alt=""><br>魔法圈 吸圈会使玩家受到的魔法伤害提高.5名玩家快速吸掉即可. 中有捕食者之嚎的人.进圈要注意不要恐惧到其他人</li><li>永恒锁链<br>塔拉格鲁凝视一名玩家.8秒后锁链向其方向飞行.击晕第一个目标章程27541点伤害.并释放毁灭猛击(秒杀)</li><li>捕食者之嚎<br>塔拉格鲁发出嚎叫,在玩家周围形成恐惧光环,持续21秒,并每三秒使每个对5吗内的其他玩家 恐惧3s.(点名10人)</li><li>典狱长的凝视<br>boss10%血之后 小范围击退全团人.移除玩家心能,并且造成伤害+500%.</li></ol><h3 id="战术尝试"><a href="#战术尝试" class="headerlink" title="战术尝试"></a>战术尝试</h3><p>较为便当的一个boss.起手5码分散 应对技能: 捕食者之嚎, boss点名永恒锁链,由带有永恒跳动之心的玩家帮忙档线/无敌冰箱挡/给点名的人保护 皆可应对.<br>捕食者之嚎点名人数较多(10人).并且会对后面的吸圈造成麻烦,需要卡cd驱散.<font color="red">如有人被恐惧了 先驱散恐惧的.</font>,每一轮进迷雾中场集合跑, 迷雾阶段结束 第一时间分散.<br>P2 boss10%后 嗜血</p><h3 id="技能开启"><a href="#技能开启" class="headerlink" title="技能开启"></a>技能开启</h3><p>待补</p><h3 id="时间轴"><a href="#时间轴" class="headerlink" title="时间轴"></a>时间轴</h3><p><a href="https://docs.qq.com/sheet/DWGpPWkNkWXJzemNn">腾讯文档M1-10时间轴汇总</a></p><h3 id="WCL"><a href="#WCL" class="headerlink" title="WCL"></a>WCL</h3><p><a href="https://www.warcraftlogs.com/reports/9Vpjc7LFa2DwYPG3">wcl地址</a></p>]]></content>
+    
+    <summary type="html">
+    
+      M1 M2 M3 测试经验
+    
+    </summary>
+    
+      <category term="技术" scheme="https://gmilistar.github.io/cc/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://gmilistar.github.io/cc/tags/web/"/>
+    
+      <category term="团本" scheme="https://gmilistar.github.io/cc/tags/%E5%9B%A2%E6%9C%AC/"/>
+    
+  </entry>
+  
+</feed>
